@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "756686646716",
+    "project_id": "nintendo-today",
+    "storage_bucket": "nintendo-today.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756686646716:android:ef2ebbef5aa685b8550fb9",
+        "android_client_info": {
+          "package_name": "com.example.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756686646716-s6cjp8r5b9qd0bb02614k1fbsbvonssp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4__ogS1d047gcNVB7Nm6iGMMTbJmg-b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756686646716-s6cjp8r5b9qd0bb02614k1fbsbvonssp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756686646716:android:2160145798b61689550fb9",
+        "android_client_info": {
+          "package_name": "com.techruptr.nintendo_today"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756686646716-s6cjp8r5b9qd0bb02614k1fbsbvonssp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4__ogS1d047gcNVB7Nm6iGMMTbJmg-b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756686646716-s6cjp8r5b9qd0bb02614k1fbsbvonssp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
